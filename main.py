@@ -4,6 +4,7 @@
 from s import run_s
 from 최진경 import run_jinkyung
 from main2 import run_main2
+from you import run_you
 
 def main():
     run_s()
@@ -11,6 +12,7 @@ def main():
     # run_b() # b의 함수 호출
     run_jinkyung()
     run_main2()
+    run_you()
 
 if __name__ == "__main__":
     main()
