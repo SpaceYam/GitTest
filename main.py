@@ -1,2 +1,9 @@
-a = 1
-print('a, b 연동 기능 제거 했음')
+# main.py 상단
+from 최진경 import run_jinkyung
+
+def main():
+    run_jinkyung()
+
+
+if __name__ == "__main__":
+    main()
